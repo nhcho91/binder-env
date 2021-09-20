@@ -17,6 +17,12 @@ SetRounding = "3cc68bcd-71a2-5612-b932-767ffbe40ab0"
 SpecialFunctions = "276daf66-3868-5448-9aa4-cd146d93841b"
 SymPy = "24249f21-da20-56a4-8eb1-6a02cf4ae2e6"
 WebIO = "0f1e0344-ec1d-5b48-a673-e5cf874b6c29"
+ComponentArrays = "b0b7db55-cfe3-40fc-9ded-d10e2dbeff66"
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+FlightSims = "a4c2f6ca-3fbe-4430-8ede-32935de4c069"
+Transducers = "28d57a85-8fef-5791-bfe6-a80928e7c999"
+UnPack = "3a884ed6-31ef-47d7-9d2a-63182c4928ed"
+
 
 [compat]
 julia = "=1.6.2"
