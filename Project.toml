@@ -19,10 +19,10 @@ SymPy = "24249f21-da20-56a4-8eb1-6a02cf4ae2e6"
 WebIO = "0f1e0344-ec1d-5b48-a673-e5cf874b6c29"
 ComponentArrays = "b0b7db55-cfe3-40fc-9ded-d10e2dbeff66"
 DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
-FlightSims = "a4c2f6ca-3fbe-4430-8ede-32935de4c069"
 Transducers = "28d57a85-8fef-5791-bfe6-a80928e7c999"
 UnPack = "3a884ed6-31ef-47d7-9d2a-63182c4928ed"
-
+Reexport = "189a3867-3050-52da-a836-e630ba90ab69"
+FSimBase = "731e945d-f3ed-49a1-bee2-3998705ef155"
 
 [compat]
-julia = "=1.6.2"
+julia = "1.6"
