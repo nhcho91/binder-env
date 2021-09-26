@@ -25,4 +25,4 @@ Reexport = "189a3867-3050-52da-a836-e630ba90ab69"
 FSimBase = "731e945d-f3ed-49a1-bee2-3998705ef155"
 
 [compat]
-julia = "1.6"
+julia = "1.6.3"
